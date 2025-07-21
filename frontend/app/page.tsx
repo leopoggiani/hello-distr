@@ -20,7 +20,7 @@ export default async function Home() {
         <span className={title()}>The&nbsp;</span>
         <span className={title({ color: "violet" })}>easiest&nbsp;</span>
         <br />
-        <span className={title()}>way to distribute enterprise software</span>
+        <span className={title()}>way to distribute your software</span>
         <div className={subtitle({ class: "mt-4" })}>Distr.</div>
       </div>
 
